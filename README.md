@@ -1,4 +1,4 @@
-In this post I examine some statistics from the 2019 Dublin Marathon. A great analysis has also been done [here](https://medium.com/running-with-data/a-data-analysis-of-the-dublin-marathon-48138724973e), and I try to avoid covering the same material. 
+Here I examine some statistics from the 2019 Dublin Marathon. A great analysis has also been done [here](https://medium.com/running-with-data/a-data-analysis-of-the-dublin-marathon-48138724973e), and I try to avoid covering the same material. 
 ### Basic Analysis
 One of the first items of interest is average finishing time. The average finish time was 4:18:55 while the average chip time was just 4:17:14, so the average runner took over one minute and forty seconds to cross the start line. 
 It is also clear, just from looking at the plot that there is a significant spike in times under four hours as many runners push themselves to break that important mental barrier. 
